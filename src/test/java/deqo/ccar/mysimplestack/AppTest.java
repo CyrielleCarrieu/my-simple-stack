@@ -7,11 +7,12 @@ import org.junit.Test;
 /**
  * Unit test for simple App.
  */
-public class AppTest 
+public class AppTest
 {
     /**
      * Rigorous Test :-)
      */
+    App app = new App();
     @Test
     public void shouldAnswerWithTrue()
     {
